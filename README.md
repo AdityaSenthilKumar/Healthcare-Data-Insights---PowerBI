@@ -41,8 +41,9 @@ It provides insights into **patient demographics, treatment outcomes, resource u
 - Identifying areas for operational improvement  
 
 ## 📸 Sample Screenshots
-*(Add screenshots of your dashboard here for better visualization — export visuals from Power BI and include them as images in the repo)*  
+*Screenshot 1 : Light Mode*  
 <img width="1440" height="900" alt="Screenshot 2025-09-04 at 8 42 34 AM" src="https://github.com/user-attachments/assets/de627da1-8e9f-48db-a48c-cd151a67e863" />
+*Screenshot 1 : Dark Mode* 
 <img width="952" height="533" alt="Screenshot 2025-09-03 at 12 51 29 AM" src="https://github.com/user-attachments/assets/fb45bb64-f08c-47b8-804b-5e9f12f6df97" />
 
 ---
